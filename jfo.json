@@ -7,12 +7,12 @@
             "vpn_user" : "freeopenvpn",
             "vpn_password" : "204703142",
 
-            "int_interval" : 5,
-            "activate_ads" : "false",
+            "int_interval" : 3,
+            "activate_ads" : "true",
             "activate_steps" : "false",
             "activate_step_email" : "false",
             "one_signal" : "ead4d9fc-c63d-4cbd-b62e-19017a7a4573",
-            "network" : "admob",
+            "network" : "is",
 
             "admob_ban" : "ca-app-pub-3940256099942544/6300978111",
             "admob_native" : "ca-app-pub-3940256099942544/2247696110",
@@ -30,7 +30,7 @@
             "fan_native": "IMG_16_9_APP_INSTALL#5352092381549612_5352094618216055",
             "fan_int": "IMG_16_9_APP_INSTALL#5352092381549612_5352095061549344",
 
-            "iron_source_key": "12c959ebd",
+            "iron_source_key": "1805778d5",
 
             "diamond": "https://static.wikia.nocookie.net/fallguysultimateknockout_gamepedia_en/images/b/be/Icon_Currency_Gem.png/revision/latest/scale-to-width-down/250?cb=20220517110115",
             "cover": "https://raw.githubusercontent.com/chetakd565/iyfiyf/main/couv.png",
@@ -183,7 +183,7 @@
             "ico" : "https://9asso.github.io/published/imgs/btwalls.png",
             "bg" : "#2196F3"
         },{
-            "active" : "true",
+            "active" : "false",
             "name" : "more",
             "ico" : "https://9asso.github.io/published/imgs/btmore.png",
             "bg" : "#3F51B5"
